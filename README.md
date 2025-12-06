@@ -20,6 +20,12 @@ Mostly, I just like designing, researching, and implementing cool stuff, so my i
 
 ------------------------
 
+**Why "DSP" Mark?** Digital Signal Processing has always fascinated me and I've always wanted to spend more time in the field. I just haven't gotten the chance yet. Still need to buff up my skills a bit before I can have a formal opportunity.
+
+**Why so many repos with commits from de-mark?** That's my former account from when I was tutoring and TA-ing. I transferred the code I had the best memories of before switching over to this account.
+
+------------------------
+
 **Commonly Used:**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
